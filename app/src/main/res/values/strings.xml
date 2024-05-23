@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FlagQuiz</string>
+
+    <!-- Content Description -->
+    <string name="content_description_continue">Devam Et</string>
+    <string name="content_description_flag">Bayrak</string>
 </resources>

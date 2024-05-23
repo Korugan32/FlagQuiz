@@ -1,4 +1,4 @@
-package com.korugan.flagquiz.ui.theme
+package com.korugan.flagquiz.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
