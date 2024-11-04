@@ -1,4 +1,4 @@
-package com.korugan.flagquiz.presentation.screen
+package com.korugan.flagquiz.presentation.screen.main.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement

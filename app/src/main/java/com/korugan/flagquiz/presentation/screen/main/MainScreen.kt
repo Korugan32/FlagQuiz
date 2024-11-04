@@ -11,10 +11,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalConfiguration
-import com.korugan.flagquiz.presentation.screen.Buttons
-import com.korugan.flagquiz.presentation.screen.FinalResult
-import com.korugan.flagquiz.presentation.screen.Flag
-import com.korugan.flagquiz.presentation.screen.Result
+import com.korugan.flagquiz.presentation.screen.main.components.Buttons
+import com.korugan.flagquiz.presentation.screen.main.components.FinalResult
+import com.korugan.flagquiz.presentation.screen.main.components.Flag
+import com.korugan.flagquiz.presentation.screen.main.components.Result
 import com.korugan.flagquiz.presentation.theme.DarkGreen
 import com.korugan.flagquiz.util.Country.Companion.countries
 
